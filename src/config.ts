@@ -1,10 +1,10 @@
 export const SITE = {
-  title: '每周分享',
+  title: '卷起来',
   author: 'zhonghaibin',
-  description: '记录生活，每周分享，欢迎关注',
+  description: '记录生活，欢迎关注',
   keywords: '',
-  icon: 'https://images.neijuan.fun/asset/logo.png',
-  pic: 'https://cdn.fliggy.com/upic/2XFNGI.png',
+  icon: 'https://www.neijuan.fun/asset/logo.png',
+  pic: 'https://www.neijuan.fun/asset/pic.png',
   homePage: 'https://www.neijuan.fun',
   githubId: 'zhonghaibin',
   repo: 'zhonghaibin/weekly'

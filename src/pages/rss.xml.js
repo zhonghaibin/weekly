@@ -14,10 +14,10 @@ posts.splice(10);
 
 export const get = () =>
   rss({
-    title: '每周分享',
-    description: '记录日常生活',
+    title: '卷起来',
+    description: '记录生活',
     site: 'https://www.neijuan.fun/',
-    customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
+    customData: `<image><url>https://images.neijuan.fun/asset/logo.png</url></image>`,
     items: posts.map((item) => {
       const url = item.url;
       const oldTitle = url.split('/posts/')[1];
